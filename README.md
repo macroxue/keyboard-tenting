@@ -23,6 +23,7 @@ a certain range so it's easy to tent and tilt the keyboard to one's liking.
 
 ## Tools
 
+ * A ruler and a pen
  * Heavy duty scissors
  * A file or sandpaper
  * 3D printer
@@ -46,7 +47,8 @@ keyboard stay in place.
 
 The plate can be of any shape/size as long as the keyboard can stay on it. For
 simplicity, I would just go with a rectangle with rounded corners, because
-that's about as much as I could do using heavy duty scissors. Be careful that
+that's about as much as I could do using heavy duty scissors. Use a ruler and a pen
+to mark the line to cut. Be careful that
 the sheet could be too hard to cut or too easy to distort. Test-cutting near
 the edge could be a good idea. Be sure to file/sand down the rough edges afterwards.
 
@@ -86,7 +88,7 @@ touching the printer's bed.
 
 ![50-percent](https://user-images.githubusercontent.com/1887856/147723242-b99901da-a12d-4dc0-b14e-c7eeab7a8484.jpg)
 
-## Gluing the Plate and the Ball
+## Gluing the Ball to the Plate
 
 Put the ball at the center of the plate and wrap a paper stripe (1" to 2" wide)
 around it.  Tape the paper cylinder to the plate and take the ball out.
