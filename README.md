@@ -1,5 +1,5 @@
-# Continuously Variable Tenting (CVT)                                         
-                                                                              
+# Continuously Variable Tenting (CVT)
+
 This is a solution for flexible and reliable tenting of keyboards with very low
 cost. Below is a short video showing it in action. A DIYer who has access to
 3D-printing can easily build it and customize it.
@@ -30,7 +30,18 @@ a certain range so it's easy to tent and tilt the keyboard to one's liking.
  * A candle and a lighter
  * Tape
 
-## Cutting the Stainless Steel Sheet
+## Installing Magnets
+
+The best is to have magnets oriented the same way, all north poles up or all
+north poles down. My keyboard's case has a very thin bottom so I just
+electric-taped magnets inside the case, one at each corner. For a large/heavy
+keyboard, more or larger magnets may help.
+
+Test the installation on the steel sheet, vertically and upside down. If
+needed, a few magnets can be attached to the back side of the sheet to help the
+keyboard stay in place.
+
+## Cutting the Steel Sheet
 
 The plate can be of any shape/size as long as the keyboard can stay on it. For
 simplicity, I would just go with a rectangle with rounded corners, because
@@ -48,15 +59,15 @@ accordingly to avoid the plate touching the desk when tented at the maximal angl
 ![ball-joint](https://user-images.githubusercontent.com/1887856/147719360-b5679326-b0b1-43cc-b1fe-3ecac65d28e0.jpg)
 
 Print either [cvt-35.stl](https://github.com/macroxue/keyboard-tenting/blob/master/cvt-35.stl)
-for 35 degree of tenting maximally or 
+for 35 degree of tenting maximally or
 [cvt-45.stl](https://github.com/macroxue/keyboard-tenting/blob/master/cvt-45.stl) for 45
 degree. The 35-degree one is slightly shorter than the 45-degree one, if that
 matters. Each print produces three pieces for one hand, so the same model needs
 to be printed twice. It takes about 12 hours to finish two prints on my
 FlashForge Creator Pro.
 
-My prints are with ABS filament. Other material should work too but I didn't 
-verify. A bit later melted wax will go into the socket so the material must 
+My prints are with ABS filament. Other material should work too but I didn't
+verify. A bit later melted wax will go into the socket so the material must
 withstand the heat and not deform.
 
 One can also modify [cvt.scad](https://github.com/macroxue/keyboard-tenting/blob/master/cvt.scad)
@@ -95,15 +106,7 @@ about right.
 
 All 3D-printed objects are slippery on a smooth surface. My solution is to put
 the joint on a rubber mat. Another way is to rubber-coat its bottom with Plasti
-Dip, but the process could be a little hazardous, requiring mask and glove protection. 
-
-## Installing Magnets
-
-The best is to have magnets oriented the same way, all north poles up or all
-north poles down. My keyboard's case has a very thin bottom so I just
-electric-taped magnets inside the case, one at each corner. For a large
-keyboard, more or larger magnets may help. If needed, a few magnets can be
-attached to the back side of the steel plate as well.
+Dip, but the process could be a little hazardous, requiring mask and glove protection.
 
 ## More Testing
 
