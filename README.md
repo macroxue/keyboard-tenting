@@ -83,6 +83,8 @@ a smooth surface when slightly touched, it should be fixed and the protruding
 parts can be scratched off by a knife. This usually happens around the edge
 touching the printer's bed.
 
+![50-percent](https://user-images.githubusercontent.com/1887856/147723242-b99901da-a12d-4dc0-b14e-c7eeab7a8484.jpg)
+
 ## Gluing the Plate and the Ball
 
 Put the ball at the center of the plate and wrap a paper stripe (1" to 2" wide)
