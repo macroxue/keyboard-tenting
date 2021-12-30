@@ -24,6 +24,7 @@ a certain range so it's easy to tent and tilt the keyboard to one's liking.
 ## Tools
 
  * Heavy duty scissors
+ * A file or sandpaper
  * 3D printer
  * Paper
  * Super glue
@@ -47,7 +48,7 @@ The plate can be of any shape/size as long as the keyboard can stay on it. For
 simplicity, I would just go with a rectangle with rounded corners, because
 that's about as much as I could do using heavy duty scissors. Be careful that
 the sheet could be too hard to cut or too easy to distort. Test-cutting near
-the edge could be a good idea.
+the edge could be a good idea. Be sure to file/sand down the rough edges afterwards.
 
 By default, the model assumes the plate is 6 inches in length and shorter in width.
 If a significantly larger geometry is desired, one needs to change the 3D model
