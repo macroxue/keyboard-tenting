@@ -113,7 +113,7 @@ All 3D-printed objects are slippery on a smooth surface. My solution is to put
 the joint on a rubber mat. Another way is to rubber-coat its bottom with Plasti
 Dip, but the process could be a little hazardous, requiring mask and glove protection.
 
-## More Testing
+## Tenting the keyboard
 
 Put the keyboard on the plate. Adjust the orientation of the keyboard by
 rotating the ball joint like how it's done in the video and see if any fine
@@ -121,6 +121,10 @@ tuning is needed.
 
 To find the most comfortable position, one can quickly move or rotate the keyboard
 on the plate without adjusting the ball joint every time.
+
+Decorate them to show some personality if you like.
+
+![launch](https://user-images.githubusercontent.com/1887856/147796470-6114baaa-c353-46bd-8e07-1c4df1d1216d.jpg)
 
 ## Acknowledgment
 
