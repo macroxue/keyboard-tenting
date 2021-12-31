@@ -19,7 +19,7 @@ a certain range so it's easy to tent and tilt the keyboard to one's liking.
  * One 6"x12" stainless steel sheet, 0.03" or slightly thicker
  * Two 3D-printed ball joints
  * Four 1.25" binder clips
- * Eight 10mm disc magnets, if needed
+ * Eight 10mm disc magnets or two refrigerator magnets of playing card size
 
 ## Tools
 
@@ -34,10 +34,13 @@ a certain range so it's easy to tent and tilt the keyboard to one's liking.
 
 ## Installing Magnets
 
-The best is to have magnets oriented the same way, all north poles up or all
-north poles down. My keyboard's case has a very thin bottom so I just
-electric-taped magnets inside the case, one at each corner. For a large/heavy
-keyboard, more or larger magnets may help.
+For a quick experiment, refrigerator magnets can be taped to the back of the
+keyboard. 
+
+For a permanent installation, I electric-taped disc magnets inside the keyboard's 
+case, one at each corner. It works perfectly since the case has a thin (1.5mm) 
+bottom and is very light. A large/heavy keyboard may need more or larger magnets. 
+Have magnets oriented the same way, all north poles up or all north poles down. 
 
 Test the installation on the steel sheet, vertically and upside down. If
 needed, a few magnets can be attached to the back side of the sheet to help the
