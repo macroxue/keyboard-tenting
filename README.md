@@ -48,10 +48,10 @@ keyboard stay in place.
 
 ## Cutting the Steel Sheet
 
-The plate can be of any shape/size as long as the keyboard can stay on it. For
-simplicity, I would just go with a rectangle with rounded corners, because
-that's about as much as I could do using heavy duty scissors. Use a ruler and a pen
-to mark the line to cut. Be careful that
+The plate can be of any shape/size as long as the keyboard can stay on it. (One can
+even repurpose steel salad plates for this.) For simplicity, I would just go with a 
+rectangle with rounded corners, because that's about as much as I could do using 
+heavy duty scissors. Use a ruler and a pen to mark the line to cut. Be careful that
 the sheet could be too hard to cut or too easy to distort. Test-cutting near
 the edge could be a good idea. Be sure to file/sand down the rough edges afterwards.
 
